@@ -1,0 +1,28 @@
+﻿  flappybird.cpp
+C:\Users\PC\Desktop\flappybird\flappybird\game_header.h(167,39): warning C4101: xe: неиспользованная локальная переменная
+C:\Users\PC\Desktop\flappybird\flappybird\game_header.h(167,10): warning C4101: y: неиспользованная локальная переменная
+C:\Users\PC\Desktop\flappybird\flappybird\game_header.h(167,43): warning C4101: ye: неиспользованная локальная переменная
+C:\Users\PC\Desktop\flappybird\flappybird\game_header.h(167,47): warning C4101: i: неиспользованная локальная переменная
+C:\Users\PC\Desktop\flappybird\flappybird\game_header.h(167,7): warning C4101: x: неиспользованная локальная переменная
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(34,9): warning C4101: url: неиспользованная локальная переменная
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(36,10): warning C4101: elapsed: неиспользованная локальная переменная
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(35,8): warning C4101: response_code: неиспользованная локальная переменная
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(160,108): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(160,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(161,107): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(161,38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(162,108): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(162,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(163,87): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(163,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(164,86): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(164,38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(165,87): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(165,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(182,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(183,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(184,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(188,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(189,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(190,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  flappybird.vcxproj -> C:\Users\PC\Desktop\flappybird\Debug\flappybird.exe

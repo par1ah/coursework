@@ -1,0 +1,30 @@
+﻿  flappybird.cpp
+C:\Users\PC\Desktop\flappybird\flappybird\game_header.h(173,39): warning C4101: xe: неиспользованная локальная переменная
+C:\Users\PC\Desktop\flappybird\flappybird\game_header.h(173,10): warning C4101: y: неиспользованная локальная переменная
+C:\Users\PC\Desktop\flappybird\flappybird\game_header.h(173,43): warning C4101: ye: неиспользованная локальная переменная
+C:\Users\PC\Desktop\flappybird\flappybird\game_header.h(173,47): warning C4101: i: неиспользованная локальная переменная
+C:\Users\PC\Desktop\flappybird\flappybird\game_header.h(173,7): warning C4101: x: неиспользованная локальная переменная
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(35,9): warning C4101: url: неиспользованная локальная переменная
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(37,10): warning C4101: elapsed: неиспользованная локальная переменная
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(36,8): warning C4101: response_code: неиспользованная локальная переменная
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(161,108): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(161,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(162,107): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(162,38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(163,108): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(163,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(164,87): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(164,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(165,86): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(165,38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(166,87): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(166,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(193,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(194,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\PC\Desktop\flappybird\flappybird\flappybird.cpp(195,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+flappybird.obj : error LNK2019: ссылка на неразрешенный внешний символ curl_easy_init в функции "void __cdecl main2(int)" (?main2@@YAXH@Z)
+flappybird.obj : error LNK2019: ссылка на неразрешенный внешний символ curl_easy_setopt в функции "void __cdecl main2(int)" (?main2@@YAXH@Z)
+flappybird.obj : error LNK2019: ссылка на неразрешенный внешний символ curl_easy_perform в функции "void __cdecl main2(int)" (?main2@@YAXH@Z)
+flappybird.obj : error LNK2019: ссылка на неразрешенный внешний символ curl_easy_cleanup в функции "void __cdecl main2(int)" (?main2@@YAXH@Z)
+C:\curl\builds\libcurl-vc-x86-release-static-ipv6-sspi-winssl\lib\libcurl_a.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\PC\Desktop\flappybird\x64\Debug\flappybird.exe : fatal error LNK1120: неразрешенных внешних элементов: 4
