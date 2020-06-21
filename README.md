@@ -12,6 +12,6 @@
 ### База данных 
 1. Пройти по [ссылке](https://cloud.mongodb.com/) и зайти в аккаунт по данным (waid.one@yandex.ru:gR6HgfZdy).
 2. Добавить свой IP-address. <br/>
-![ ](png/1.png " ")
-![ ](png/2.png " ")
-![ ](png/3.png " ")
+![ ](png/1.png " ") <br/>
+![ ](png/2.png " ") <br/>
+![ ](png/3.png " ") <br/>
