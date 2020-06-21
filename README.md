@@ -2,8 +2,8 @@
 
 ### Сервер 
 Установить библиотеки:
-1. logging
-2. urllib
+1. BaseHTTPRequestHandler 
+2. HTTPServer
 3. pymongo
 
 ### Проект
